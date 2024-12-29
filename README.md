@@ -2,3 +2,4 @@ based on https://github.com/SUPLA/supla-device/blob/main/examples/Fronius/Froniu
 
 added fully WebInterface config and OTA
 
+tested on Sonoff Bassic R3
